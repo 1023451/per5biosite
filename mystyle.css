@@ -1,6 +1,5 @@
-@charset "UTF-8";
+\@charset "UTF-8";
 /* CSS Document */
-
 a:link {
   color: #FFD8CC;
 }
@@ -29,4 +28,7 @@ a:active {
 
 #header {
 	background-image: url('texttrure.jpg');
+}
+body {
+	max-left: 1000px		
 }
