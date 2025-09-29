@@ -25,10 +25,11 @@ a:active {
 	float: left;
 	border-style: solid;
 }
-
 #header {
 	background-image: url('texttrure.jpg');
 }
 body {
-	max-left: 1000px		
+	max-left: 1000px
+	margin-left: auto;
+	margin-right: auto;
 }
